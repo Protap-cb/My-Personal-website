@@ -1,0 +1,31 @@
+body {
+  background: #ccc; }
+
+#Header a:hover {
+  color: #fff; }
+
+#bg-img {
+  background: url("../img/body.jpeg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 500px; }
+
+#About {
+  margin-top: -200px; }
+
+#About .fa {
+  color: #fff; }
+
+#About span {
+  padding: 10px 20px 10px 20px; }
+
+#About hr {
+  border-width: 3px;
+  margin-top: 6px; }
+
+#Skills span {
+  padding: 10px 20px 10px 20px; }
+
+#Skills hr {
+  border-width: 3px;
+  margin-top: 6px; }
